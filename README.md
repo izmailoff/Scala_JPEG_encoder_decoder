@@ -1,7 +1,7 @@
 Scala_JPEG_encoder_decoder
 ==========================
 
-Example of JPEG encoder/decoder in Scala using Akka, and maybe Futures in the future.
+Example of JPEG encoder/decoder in Scala using Akka, and maybe Futures in the future (pun intended).
 
 Build Status
 ======
@@ -12,3 +12,11 @@ About
 TODO ...
 
 This is work in process ...
+
+
+How to run
+======
+Here is how to run from SBT:
+
+ * Run SBT with `./sbt` or so.
+ * Run the main app with `run` from SBT shell
